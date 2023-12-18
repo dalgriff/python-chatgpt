@@ -46,3 +46,6 @@ bower_components/
 *.swp
 *.swo
 *.sublime*
+
+#virtual environments
+venv/
