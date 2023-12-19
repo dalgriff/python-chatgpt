@@ -47,14 +47,14 @@ Python-GPT can be used to interact with the ChatGPT model for various purposes, 
 To start the backend server:
 
 ```
-sh
+
 uvicorn main:app --reload
 ```
 
 To run the frontend:
 
 ```
-sh
+
 cd frontend npm run dev
 ```
 
